@@ -4,7 +4,7 @@ const menu = [
       title: 'buttermilk pancakes',
       category: 'breakfast',
       price: 15.99,
-      img: 'https://pix8.agoda.net/hotelImages/41572057/0/eb2cb7de0312072d1e1e8da6324731ad.jpg?ce=0&s=1280x',
+      img: './images/item-1.jpeg',
       desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
     },
     {
@@ -12,7 +12,7 @@ const menu = [
       title: 'diner double',
       category: 'lunch',
       price: 13.99,
-      img: 'https://static.wixstatic.com/media/262288_b2c6c492d13046069f98adf5cc570539~mv2.jpg/v1/fill/w_980,h_578,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/262288_b2c6c492d13046069f98adf5cc570539~mv2.jpg',
+      img: './images/item-2.jpeg',
       desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
     },
     {
